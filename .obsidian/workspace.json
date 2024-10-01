@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "092ff9f72751020b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe91f26ce03baaec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f16bfb5697d4ced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbe80348c6e96aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7503ea508f7b89d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2a20b55bd455da0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8659729f1ffe8a36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2724f86965614c12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bffae1bfcc020114",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72981d61f442e9b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5f434b3b4860a99",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2667797128a3b5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a475edeabe0c26e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PROD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d6613feda63b190",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PROD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9bf49f016f80c950",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "628076c5c7219304",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PROD.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2724f86965614c12",
+  "lastOpenFiles": [
+    "Auth1.md",
+    "Models.md",
+    "Linux/BLinux.md",
+    "Linux",
+    "Auth.md",
+    "Production/Nginx, Gunicorn, Redis, Celery.md",
+    "Django.md",
+    "База.md",
+    "Python.md",
+    "Python/Pip.md",
+    "Production/Django.md",
+    "Django",
+    "Python",
+    "Prog.canvas",
+    "Standart.md",
+    "Production",
+    "Untitled.md",
+    "PROD.md",
+    "Untitled.canvas",
+    "2024-10-01.md",
+    "Untitled 1.md",
+    "Подсказки.md"
+  ]
+}

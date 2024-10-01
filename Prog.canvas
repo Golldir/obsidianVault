@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"9654292e884f7772","type":"text","text":"==SERVER==","x":-1760,"y":-2060,"width":250,"height":60},
+		{"id":"4c1e928973d6da8a","type":"text","text":"# [[Auth]]\n","x":-2823,"y":-3320,"width":250,"height":60,"color":"2"},
+		{"id":"48422dc03b4b5fa7","type":"text","text":"# [[Models, Forms]]","x":-2823,"y":-3440,"width":250,"height":80,"color":"2"},
+		{"id":"cfd45aa5f709c6da","type":"text","text":"# [[Standart]]","x":-2243,"y":-3380,"width":192,"height":60,"color":"2"},
+		{"id":"af7a99ef50f96483","type":"text","text":"# DJANGO\n","x":-2260,"y":-2520,"width":250,"height":60,"color":"#a70606"},
+		{"id":"9b6d8473cf152ddc","type":"text","text":"# [[PROD]]","x":-1860,"y":-2520,"width":250,"height":60,"color":"4"},
+		{"id":"ec077fdc52eb0b59","type":"text","text":"# Python","x":-2940,"y":-2541,"width":197,"height":103,"color":"1"},
+		{"id":"a666d0dc1edb8a71","type":"text","text":"# [[Pip]]","x":-3080,"y":-2219,"width":174,"height":60},
+		{"id":"f43de6ea5c043cf1","type":"text","text":"[[systemd]]","x":-2571,"y":-2368,"width":631,"height":179,"color":"2"},
+		{"id":"71e49bc87744367a","type":"text","text":"[[]]","x":-2760,"y":-2111,"width":250,"height":60},
+		{"id":"9277897a66834814","type":"text","text":"## Installation\n```python\ndjango-admin startproject <projname> \npython manage.py startapp <appname> \npython manage.py createsuperuser \n'DIRS': [BASE_DIR / \"templates\"] # Без этого джанга не найдет шаблоны\n```","x":-2995,"y":-3100,"width":720,"height":200,"color":"2"}
+	],
+	"edges":[
+		{"id":"986dbf21b18f9db6","fromNode":"cfd45aa5f709c6da","fromSide":"left","toNode":"4c1e928973d6da8a","toSide":"right"},
+		{"id":"b64dd4529e07e8db","fromNode":"cfd45aa5f709c6da","fromSide":"left","toNode":"48422dc03b4b5fa7","toSide":"right"},
+		{"id":"939cae840f3f8fd9","fromNode":"cfd45aa5f709c6da","fromSide":"left","toNode":"9277897a66834814","toSide":"right"}
+	]
+}
